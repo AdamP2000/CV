@@ -1,6 +1,6 @@
-## Your Name
+Adam Phillips
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Since September 2019 I have pursued a BA in Russian and Spanish at UCL; however, whilst I enjoyed my time, my interests lie in understanding the theoretical framework for languages, rather than the literature itself. As I delved further into this space, I realised that mathematics, a command of computer science and programming are requisite foundations. I have been following the progress being made within artificial intelligence (AI); in particular, the release of the autoregressive language model from OpenAI: GPT-3. Linguistics remains a passion of mine and discovering that there exists an algorithm capable of learning and then generating prose indistinguishable from human writing is captivating. This interest has driven me to teach myself programming, and I am hoping to enhance my knowledge by attending a coding bootcamp, Makers Academy, from February - April 2021, with a focus on backend development in Python, given Python is a popular language within machine learning.
 
 ## Projects
 
@@ -51,14 +51,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+UCL Russian and Spanish 2019 - 2020
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Level 1 Tennis Coaching Assistant Course
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Tennis
+Racquets

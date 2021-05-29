@@ -4,14 +4,14 @@ Upon leaving Charterhouse, I pursued a BA in Russian and Spanish at UCL from Sep
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        | Link                                     |
-| ---------------------------- | ----------------- | ----------------- | ---------------------------------------- |
-| **Final project at Makers**  | Mobile app to     | MongoDB, Jest,    |  https://github.com/AdamP2000/Grappitude |
-|                              | track what users  | React Native and  |                                          |
-|                              | are greatful for. | Javascript        |                                          |
-|                              |                   |                   |                                          |
-| **A Project at Makers**      | AirBnB clone      | Ruby, Rspec,      | https://github.com/AdamP2000/makersbnb   |                                                                     |                              |                   | PSQL, Sinatra and |                                          |
-|                              |                   | Capybara          |                                          |
+| Name                         | Description       | Tech/tools          | Link                                     |
+| ---------------------------- | ----------------- | -----------------   | ---------------------------------------- |
+| **Final project at Makers**  | Mobile app to     | MongoDB, Jest,      |  https://github.com/AdamP2000/Grappitude |
+|                              | track what users  | React Native and    |                                          |
+|                              | are greatful for. | Javascript          |                                          |
+|                              |                   |                     |                                          |
+| **A Project at Makers**      | Web app of an Air | Ruby, Rspec, PSQL   | https://github.com/AdamP2000/makersbnb   |                                                                     |                              |                   |                     |                                          |
+|                              | BnB clone.        | Capybara and Sinatra|                                          |
 
 ## Experience
 

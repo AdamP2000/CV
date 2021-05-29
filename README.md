@@ -1,63 +1,69 @@
 Adam Phillips
 
-Since September 2019 I have pursued a BA in Russian and Spanish at UCL; however, whilst I enjoyed my time, my interests lie in understanding the theoretical framework for languages, rather than the literature itself. As I delved further into this space, I realised that mathematics, a command of computer science and programming are requisite foundations. I have been following the progress being made within artificial intelligence (AI); in particular, the release of the autoregressive language model from OpenAI: GPT-3. Linguistics remains a passion of mine and discovering that there exists an algorithm capable of learning and then generating prose indistinguishable from human writing is captivating. This interest has driven me to teach myself programming, and I am hoping to enhance my knowledge by attending a coding bootcamp, Makers Academy, from February - April 2021, with a hope to later focus on backend development in Python, given Python is a popular language within machine learning.
+Upon leaving Charterhouse, I pursued a BA in Russian and Spanish at UCL from September 2019 until November 2020; however, whilst I enjoyed my time, my interests lied in understanding the theoretical framework for languages, rather than the literature itself. As I delved further into this space, I realised that mathematics, a command of computer science and programming are requisite foundations. I have been following the progress being made within artificial intelligence (AI); in particular, the release of the autoregressive language model from OpenAI: GPT-3. Linguistics remains a passion of mine and discovering that there exists an algorithm capable of learning and then generating prose indistinguishable from human writing is captivating. This interest drove me to teach myself programming, and I enhanced my knowledge by attending a coding bootcamp, Makers Academy, from February - April 2021, with a focus on both front and backend development using Ruby and JavaScript with a big emphasis on testing. I am also a keen sportsman, and hope to one day marry my passion for sports with programming. I am certain as a software engineer, I will be well positioned to contribute effectively in a team.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Tech/tools        | Link                                     |
+| ---------------------------- | ----------------- | ----------------- | ---------------------------------------- |
+| **Final project at Makers**  | Mobile app to     | MongoDB, Jest,    |  https://github.com/AdamP2000/Grappitude |
+|                              | track what users  | React Native and  |                                          |
+|                              | are greatful for. | Javascript        |                                          |
+| ---------------------------- | ----------------- | ----------------- |----------------------------------------- |
+| **A Project at Makers**      | A web application | Ruby, Rspec,      | https://github.com/AdamP2000/makersbnb   |                                                                     |                              | of an AirBNB      | PSQL, Sinatra and |                                          |
+|                              | clone.            | Capybara          |                                          |
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+•	Aberdeen Standard Investments – Shadowed researchers and developers on the quantitative equities team. Learnt an overview of risk-premia based strategies and presented to the team on the subject of cryptocurrencies, including: underlying details on individual protocols and performance of assets.
 
-- Any experience relevent to software development
+•	Completion of Level 1 Tennis Coaching Assistant Course, qualifying me to teach Under 6’s at my local tennis club.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+•	Math tutoring, during my final year of school, allowing me to further explore my interests in mathematics and test my ability to convey abstract ideas.
 
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feburary 2021 - April 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University College London (September 2019 - November 2020)
 
-UCL Russian and Spanish 2019 - 2020
+BA Russian and Spanish 
 
-#### Any other qualifications
+#### Other qualifications
 
 Level 1 Tennis Coaching Assistant Course
 
+#### Skills developed through degree, outside courses and work
+
+•	Excellent communication skills through pair programming and group projects at Makers Academy.
+•	Organisational skills that have allowed me to manage my time and meet deadlines.
+•	The ability to learn from others and teach them in a constructive manner.
+•	Building applications with new frameworks and programming languages with no prior knowledge. 
+•	Self-reflection, through weekly retros during my time at Makers Academy.
+•	Strong leadership skills developed through projects and presentations.
+•	Creativity and determination, exhibited during the final 2 weeks of Makers Academy where we made a mobile app of our choice.
+•	Motivation, shown through teaching myself the basics of programming in order to get into Makers Academy.
+
+#### Charterhouse School (September 2014 - May 2019)
+
+•	IB Diploma: 35 points in Higher Level Maths, Economics, Spanish and Standard level English, French and Chemistry
+•	2 GCSE’s: A* 
+•	iGCSE: 6A* 1A
+•	English Literature Certificate: Distinction
+•	Peter Attenborough All-Rounder Scholarship 
+
+
 ## Hobbies
 
-Tennis
-Racquets
+•	Sports (Football, Hockey, Racquets and Tennis).
+•	Gaming.
+•	Building mobile/web applications. 
+•	Travelling.
+•	Risks and new challenges - I enjoy the prospect of learning and working in a high-pressured environment and seeing the progress I have made during my time at Makers Academy motivates me to delve further into this industry as a software engineer.
+

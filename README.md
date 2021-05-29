@@ -12,7 +12,7 @@ Upon leaving Charterhouse, I pursued a BA in Russian and Spanish at UCL from Sep
 | ---------------------------- | ----------------- | ----------------- |----------------------------------------- |
 | **A Project at Makers**      | AirBnB clone web  | Ruby, Rspec,      | https://github.com/AdamP2000/makersbnb   |                                                                     |                              | application.      | PSQL, Sinatra and |                                          |
 |                              |                   | Capybara          |                                          |
-
+|----------------------------- | ----------------- | ----------------- | ----------------------------------------
 ## Experience
 
 •	Aberdeen Standard Investments – Shadowed researchers and developers on the quantitative equities team. Learnt an overview of risk-premia based strategies and presented to the team on the subject of cryptocurrencies, including: underlying details on individual protocols and performance of assets.

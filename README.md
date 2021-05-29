@@ -11,7 +11,7 @@ Upon leaving Charterhouse, I pursued a BA in Russian and Spanish at UCL from Sep
 |                              | are greatful for. | Javascript        |                                          |
 | ---------------------------- | ----------------- | ----------------- |----------------------------------------- |
 | **A Project at Makers**      | AirBnB clone web  | Ruby, Rspec,      | https://github.com/AdamP2000/makersbnb   |                                                                     |                              |                   | PSQL, Sinatra and |                                          |
-|                              | application       | Capybara          |                                          |
+|                              | application.      | Capybara          |                                          |
 
 ## Experience
 

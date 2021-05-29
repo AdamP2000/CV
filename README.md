@@ -41,29 +41,29 @@ Level 1 Tennis Coaching Assistant Course
 
 #### Skills developed through degree, outside courses and work
 
-•	Excellent communication skills through pair programming and group projects at Makers Academy.
-•	Organisational skills that have allowed me to manage my time and meet deadlines.
-•	The ability to learn from others and teach them in a constructive manner.
-•	Building applications with new frameworks and programming languages with no prior knowledge. 
-•	Self-reflection, through weekly retros during my time at Makers Academy.
-•	Strong leadership skills developed through projects and presentations.
-•	Creativity and determination, exhibited during the final 2 weeks of Makers Academy where we made a mobile app of our choice.
-•	Motivation, shown through teaching myself the basics of programming in order to get into Makers Academy.
+-	Excellent communication skills through pair programming and group projects at Makers Academy.
+-	Organisational skills that have allowed me to manage my time and meet deadlines.
+-	The ability to learn from others and teach them in a constructive manner.
+-	Building applications with new frameworks and programming languages with no prior knowledge. 
+-	Self-reflection, through weekly retros during my time at Makers Academy.
+-	Strong leadership skills developed through projects and presentations.
+-	Creativity and determination, exhibited during the final 2 weeks of Makers Academy where we made a mobile app of our choice.
+-	Motivation, shown through teaching myself the basics of programming in order to get into Makers Academy.
 
 #### Charterhouse School (September 2014 - May 2019)
 
-•	IB Diploma: 35 points in Higher Level Maths, Economics, Spanish and Standard level English, French and Chemistry
-•	2 GCSE’s: A* 
-•	iGCSE: 6A* 1A
-•	English Literature Certificate: Distinction
-•	Peter Attenborough All-Rounder Scholarship 
+-	IB Diploma: 35 points in Higher Level Maths, Economics, Spanish and Standard level English, French and Chemistry
+-	2 GCSE’s: A* 
+-	iGCSE: 6A* 1A
+-	English Literature Certificate: Distinction
+-	Peter Attenborough All-Rounder Scholarship 
 
 
 ## Hobbies
 
-•	Sports (Football, Hockey, Racquets and Tennis).
-•	Gaming.
-•	Building mobile/web applications. 
-•	Travelling.
-•	Risks and new challenges - I enjoy the prospect of learning and working in a high-pressured environment and seeing the progress I have made during my time at Makers Academy motivates me to delve further into this industry as a software engineer.
+-	Sports (Football, Hockey, Racquets and Tennis).
+-	Gaming.
+-	Building mobile/web applications. 
+-	Travelling.
+-	Risks and new challenges - I enjoy the prospect of learning and working in a high-pressured environment and seeing the progress I have made during my time at Makers Academy motivates me to delve further into this industry as a software engineer.
 

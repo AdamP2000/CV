@@ -10,8 +10,8 @@ Upon leaving Charterhouse, I pursued a BA in Russian and Spanish at UCL from Sep
 |                              | track what users  | React Native and  |                                          |
 |                              | are greatful for. | Javascript        |                                          |
 | ---------------------------- | ----------------- | ----------------- |----------------------------------------- |
-| **A Project at Makers**      | AirBnB clone web  | Ruby, Rspec,      | https://github.com/AdamP2000/makersbnb   |                                                                     |                              |                   | PSQL, Sinatra and |                                          |
-|                              | application.      | Capybara          |                                          |
+| **A Project at Makers**      | AirBnB clone web  | Ruby, Rspec,      | https://github.com/AdamP2000/makersbnb   |                                                                     |                              | application.      | PSQL, Sinatra and |                                          |
+|                              |                   | Capybara          |                                          |
 
 ## Experience
 

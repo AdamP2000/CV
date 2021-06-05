@@ -8,7 +8,7 @@ Upon leaving Charterhouse, I pursued a BA in Russian and Spanish at UCL from Sep
 | ---------------------------- | ----------------- | -----------------   | ---------------------------------------- |
 | **Final project at Makers**  | Mobile app to     | MongoDB, Jest,      |  https://github.com/AdamP2000/Grappitude |
 |                              | track what users  | React Native and    |                                          |
-|                              | are greatful for. | Javascript          |                                          |
+|                              | are grateful for. | Javascript          |                                          |
 |                              |                   |                     |                                          |
 | **A Project at Makers**      | Web app of an Air | Ruby, Rspec, PSQL   | https://github.com/AdamP2000/makersbnb   |                                                                     |                              |                   |                     |                                          |
 |                              | BnB clone.        | Capybara and Sinatra|                                          |

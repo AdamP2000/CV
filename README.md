@@ -53,9 +53,6 @@ Level 1 Tennis Coaching Assistant Course
 #### Charterhouse School (September 2014 - May 2019)
 
 -	IB Diploma: 35 points in Higher Level Maths, Economics, Spanish and Standard level English, French and Chemistry
--	2 GCSE’s: A* 
--	iGCSE: 6A* 1A
--	English Literature Certificate: Distinction
 -	Peter Attenborough All-Rounder Scholarship 
 
 

@@ -17,8 +17,6 @@ Upon leaving Charterhouse, I pursued a BA in Russian and Spanish at UCL from Sep
 
 •	Aberdeen Standard Investments – Shadowed researchers and developers on the quantitative equities team. Learnt an overview of risk-premia based strategies and presented to the team on the subject of cryptocurrencies, including: underlying details on individual protocols and performance of assets.
 
-•	Completion of Level 1 Tennis Coaching Assistant Course, qualifying me to teach Under 6’s at my local tennis club.
-
 •	Math tutoring, during my final year of school, allowing me to further explore my interests in mathematics and test my ability to convey abstract ideas.
 
 
@@ -43,12 +41,9 @@ Level 1 Tennis Coaching Assistant Course
 
 -	Excellent communication skills through pair programming and group projects at Makers Academy.
 -	Organisational skills that have allowed me to manage my time and meet deadlines.
--	The ability to learn from others and teach them in a constructive manner.
--	Building applications with new frameworks and programming languages with no prior knowledge. 
+-	The ability to both learn from others and teach them in a constructive manner.
 -	Self-reflection, through weekly retros during my time at Makers Academy.
--	Strong leadership skills developed through projects and presentations.
--	Creativity and determination, exhibited during the final 2 weeks of Makers Academy where we made a mobile app of our choice.
--	Motivation, shown through teaching myself the basics of programming in order to get into Makers Academy.
+
 
 #### Charterhouse School (September 2014 - May 2019)
 

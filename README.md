@@ -37,14 +37,6 @@ BA Russian and Spanish
 
 Level 1 Tennis Coaching Assistant Course
 
-#### Skills developed through degree, outside courses and work
-
--	Excellent communication skills through pair programming and group projects at Makers Academy.
--	Organisational skills that have allowed me to manage my time and meet deadlines.
--	The ability to both learn from others and teach them in a constructive manner.
--	Self-reflection, through weekly retros during my time at Makers Academy.
-
-
 #### Charterhouse School (September 2014 - May 2019)
 
 -	IB Diploma: 35 points in Higher Level Maths, Economics, Spanish and Standard level English, French and Chemistry
